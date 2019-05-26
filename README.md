@@ -1,7 +1,8 @@
 # thinkphp-avalidate
 根据数据库字段生成验证器
 
-> 安装
+> 安装, 只支持5.1
+
 ```
 composer require wdaglb/thinkphp-avalidate
 ```
