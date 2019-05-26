@@ -1,0 +1,21 @@
+{
+    "name": "wdaglb/thinkphp-avalidate",
+    "require-dev": {
+        "topthink/framework": "5.1.*"
+    },
+    "authors": [
+        {
+            "name": "king east",
+            "email": "1207877378@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ke\\": "src"
+        },
+        "files": [
+            "bootstrap.php"
+        ]
+    }
+}
