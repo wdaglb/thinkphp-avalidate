@@ -4,7 +4,7 @@
 > 安装, 只支持5.1
 
 ```
-composer require wdaglb/thinkphp-avalidate
+composer require ke/thinkphp-avalidate
 ```
 
 > 创建验证器
