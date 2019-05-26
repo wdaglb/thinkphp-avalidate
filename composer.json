@@ -1,5 +1,5 @@
 {
-    "name": "wdaglb/thinkphp-avalidate",
+    "name": "ke/thinkphp-avalidate",
     "require-dev": {
         "topthink/framework": "5.1.*"
     },
